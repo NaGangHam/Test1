@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1040215565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c6389285d153ee980113af963e48093
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8f786d93061fa0f53876214ea1ed1ab9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c6389285d153ee980113af963e48093
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Ch42.fbx
+- Assets/Models/Ch46.fbx
+Dependencies: []
